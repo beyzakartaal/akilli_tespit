@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/Biovision/Animal_Detection/data/Leopard
+
+train: ./images/train
+val: ./images/valid
+test: ./images/test
+
+nc: 1
+names: ['Leopard']
